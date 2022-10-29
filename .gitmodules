@@ -1,0 +1,6 @@
+[submodule "PolynomDeg3SolverCPP"]
+	path = PolynomDeg3SolverCPP
+	url = https://github.com/AlexShashkov/PolynomDeg3SolverCPP
+[submodule "PolynomDeg3SolverPython"]
+	path = PolynomDeg3SolverPython
+	url = https://github.com/AlexShashkov/PolynomDeg3SolverPython
